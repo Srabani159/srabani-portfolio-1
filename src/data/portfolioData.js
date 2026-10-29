@@ -84,20 +84,40 @@ export const experienceTimeline = [
       "Designing and implementing full system architecture.",
       "Collaborating with cross-functional teams for seamless product delivery."
     ],
+
     projects: [
       {
         name: "Automoss (Service Marketplace Platform)",
-        details: "Developed responsive frontend using React.js / Next.js for booking, service selection, partner dashboard, and analytics (like GoMechanic)."
+        details:
+          "Developed a responsive service marketplace platform using React.js and Next.js, featuring service booking, service selection, partner dashboards, and analytics, similar to GoMechanic."
       },
       {
         name: "RSP – Store Management System",
-        details: "Developed full-stack application using Laravel + React.js, featuring inventory management, order processing, reporting, and complete CRUD workflows."
+        details:
+          "Developed a full-stack store management application using Laravel and React.js, featuring inventory management, order processing, reporting, and complete CRUD workflows."
       },
       {
         name: "Strivesteam Company Web App (Employee Management System)",
-        details: "Built complete Employee Management System using Laravel + React.js with employee tracking, attendance, admin dashboard, and reporting tools."
+        details:
+          "Built a complete employee management system using Laravel and React.js, including employee tracking, attendance management, an admin dashboard, and reporting tools."
+      },
+      {
+        name: "BDMS – Chartered Accountancy Website",
+        details:
+          "Developed a professional Chartered Accountancy (CA) website showcasing financial and business services, including Audit & Assurance, Financial Consulting, Taxation Consulting, Project Financing, Bookkeeping & Accounts, and Risk Advisory."
+      },
+      {
+        name: "EDFS – CA & Financial Services Website",
+        details:
+          "Developed a professional CA and financial services website offering bank loan assistance, company registration, financial consulting, and other business advisory services."
+      },
+      {
+        name: "Dhamnagar NAC – Government Website",
+        details:
+          "Developed a government website for Dhamnagar Notified Area Council (NAC), providing a digital platform for civic information, public services, government updates, and local administration-related information."
       }
     ],
+
     tech: ["React.js", "Next.js", "Laravel", "PHP", "MySQL", "REST APIs", "Tailwind CSS", "Git"]
   },
   {
